@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ismailllllll\\SELAM KA\u00C7MAZ\\C#\\2024.11.18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D97BCCB-9BC9-48A1-85B9-5DC8E6737EFC}|2024.11.18\\2024.11.18.csproj|e:\\ismailllllll\\selam ka\u00E7maz\\c#\\2024.11.18\\2024.11.18\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D97BCCB-9BC9-48A1-85B9-5DC8E6737EFC}|2024.11.18\\2024.11.18.csproj|solutionrelative:2024.11.18\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D97BCCB-9BC9-48A1-85B9-5DC8E6737EFC}|2024.11.18\\2024.11.18.csproj|e:\\ismailllllll\\selam ka\u00E7maz\\c#\\2024.11.18\\2024.11.18\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D97BCCB-9BC9-48A1-85B9-5DC8E6737EFC}|2024.11.18\\2024.11.18.csproj|solutionrelative:2024.11.18\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D97BCCB-9BC9-48A1-85B9-5DC8E6737EFC}|2024.11.18\\2024.11.18.csproj|e:\\ismailllllll\\selam ka\u00E7maz\\c#\\2024.11.18\\2024.11.18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D97BCCB-9BC9-48A1-85B9-5DC8E6737EFC}|2024.11.18\\2024.11.18.csproj|solutionrelative:2024.11.18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D97BCCB-9BC9-48A1-85B9-5DC8E6737EFC}|2024.11.18\\2024.11.18.csproj|e:\\ismailllllll\\selam ka\u00E7maz\\c#\\2024.11.18\\2024.11.18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D97BCCB-9BC9-48A1-85B9-5DC8E6737EFC}|2024.11.18\\2024.11.18.csproj|solutionrelative:2024.11.18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\ismailllllll\\SELAM KA\u00C7MAZ\\C#\\2024.11.18\\2024.11.18\\Form1.cs",
+              "RelativeDocumentMoniker": "2024.11.18\\Form1.cs",
+              "ToolTip": "E:\\ismailllllll\\SELAM KA\u00C7MAZ\\C#\\2024.11.18\\2024.11.18\\Form1.cs",
+              "RelativeToolTip": "2024.11.18\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:43:22.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "E:\\ismailllllll\\SELAM KA\u00C7MAZ\\C#\\2024.11.18\\2024.11.18\\Form1.cs",
+              "RelativeDocumentMoniker": "2024.11.18\\Form1.cs",
+              "ToolTip": "E:\\ismailllllll\\SELAM KA\u00C7MAZ\\C#\\2024.11.18\\2024.11.18\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "2024.11.18\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:43:20.593Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\ismailllllll\\SELAM KA\u00C7MAZ\\C#\\2024.11.18\\2024.11.18\\Form2.cs",
+              "RelativeDocumentMoniker": "2024.11.18\\Form2.cs",
+              "ToolTip": "E:\\ismailllllll\\SELAM KA\u00C7MAZ\\C#\\2024.11.18\\2024.11.18\\Form2.cs",
+              "RelativeToolTip": "2024.11.18\\Form2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:41:30.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "E:\\ismailllllll\\SELAM KA\u00C7MAZ\\C#\\2024.11.18\\2024.11.18\\Form2.cs",
+              "RelativeDocumentMoniker": "2024.11.18\\Form2.cs",
+              "ToolTip": "E:\\ismailllllll\\SELAM KA\u00C7MAZ\\C#\\2024.11.18\\2024.11.18\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "2024.11.18\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:41:29.099Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
